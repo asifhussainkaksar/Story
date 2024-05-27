@@ -30,3 +30,20 @@
   529  git commit -m "complete chapter 2 and 3"
   530  git log
   531  history
+
+
+  Going back to the previos version:
+  git status
+  535  git add commands_in_git_version_control.txt
+  536  git status
+  537  git commit -m "commands i know"
+  538  git log
+  539  code chapter3.txt
+  540  git status
+  // diff is used to find difference between the previos and
+  current version whereas we go to previos version
+  using checkout
+  541  git diff chapter3.txt
+  542  git checkout chapter3.txt
+  543  git log
+  544  git status
