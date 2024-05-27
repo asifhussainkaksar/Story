@@ -1,0 +1,32 @@
+  500  cd Desktop
+  501  cd ..
+  502  cd mkdir Story
+  503  mkdir Story
+  504  cd Story
+  505  touch chapter1.txt
+  506  open chapter1.txt
+  507  code chapter1.txt
+  508  git init
+  509  ls
+  510  ls -a
+  511  git init
+  512  git status
+  513  clear
+  514  git add chapter.txt
+  515  git add chapter1.txt
+  516  git status
+  517  git commit -m "Complete Chapter 1"
+  518  git log
+  519  touch chapter2.txt
+  520  touch chapter3.txt
+  521  code chapter2.txt
+  522  code chapter3.txt
+  523  git satus
+  524  git status
+  525  git add chapter2.txt chapter3.txt
+  526  git status
+  527  clear
+  528  git commit "complete chapter 2 and 3"
+  529  git commit -m "complete chapter 2 and 3"
+  530  git log
+  531  history
