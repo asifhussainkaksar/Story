@@ -51,6 +51,6 @@ ls  500  cd Desktop
   //branching
   532  git branch alien-plot
   533  git branch
-  534  git checout alien-plot
   535  git checkout alien-plot
   536  git branch
+  564  git merge alien-plott
