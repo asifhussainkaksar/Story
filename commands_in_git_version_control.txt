@@ -1,4 +1,4 @@
-  500  cd Desktop
+ls  500  cd Desktop
   501  cd ..
   502  cd mkdir Story
   503  mkdir Story
@@ -47,3 +47,10 @@
   542  git checkout chapter3.txt
   543  git log
   544  git status
+
+  //branching
+  532  git branch alien-plot
+  533  git branch
+  534  git checout alien-plot
+  535  git checkout alien-plot
+  536  git branch
